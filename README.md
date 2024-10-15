@@ -41,8 +41,7 @@ In this analysis, we utilized the `Scikit-learn (sklearn)` library to develop a 
     >Evaluated the model using the test data.
 	
 7.	**Result:**
-    >Loss: 0.5597
-    >Accuracy: 73.34%
+    > Loss: 0.5597  and   Accuracy: 73.34%
 
 
 
