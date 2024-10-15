@@ -40,7 +40,7 @@ In this analysis, we utilized the `Scikit-learn (sklearn)` library to develop a 
 6.	**Evaluate the model using the test data:**
     >Evaluated the model using the test data.
 	
-7.	**Result: **
+7.	**Result:**
     >Loss: 0.5597
     >Accuracy: 73.34%
 
